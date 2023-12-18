@@ -1,0 +1,1 @@
+This application allows users to search for movies by entering a movie name. It retrieves a list of similar movies from an external API and displays them. If the entered movie name does not match anything, the application should display an error message. 
